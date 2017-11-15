@@ -1,2 +1,9 @@
 NetworkManager.conf
 /etc/NetworkManager/NetworkManager.conf
+
+~~~~~~~~~~~
+Spoof MAC on connection to networks:
+[connection]
+wifi.cloned-mac-address=random
+ethernet.cloned-mac-address=random
+~~~~~~~~~~~
