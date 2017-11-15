@@ -7,3 +7,4 @@ Spoof MAC on connection to networks:
 wifi.cloned-mac-address=random
 ethernet.cloned-mac-address=random
 ~~~~~~~~~~~
+
