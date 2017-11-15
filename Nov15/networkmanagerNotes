@@ -1,6 +1,8 @@
 NetworkManager.conf
 /etc/NetworkManager/NetworkManager.conf
 
+Some documentation about networkManager @ developer.gnome.org/NetworkManager/stable/NetworkManager.conf.html
+
 ~~~~~~~~~~~
 Spoof MAC on connection to networks:
 [connection]
