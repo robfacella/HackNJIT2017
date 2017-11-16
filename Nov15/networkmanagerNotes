@@ -3,6 +3,10 @@ NetworkManager.conf
 
 Some documentation about networkManager @ developer.gnome.org/NetworkManager/stable/NetworkManager.conf.html
 
+switched from false:
+[ifupdown]
+managed=true
+
 ~~~~~~~~~~~
 Spoof MAC on connection to networks:
 [connection]
